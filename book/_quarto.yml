@@ -1,0 +1,16 @@
+project:
+  type: book
+  output-dir: _build
+
+book:
+  title: "RF Signal Classification"
+  author: "Carlos Reyes"
+  date: "2026"
+  chapters:
+    - index.ipynb
+
+format:
+  html:
+    theme: cosmo
+    code-fold: true
+    toc: true

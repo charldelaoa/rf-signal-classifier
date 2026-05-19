@@ -1,0 +1,33 @@
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Data files (too large for GitHub)
+data/raw/
+*.hdf5
+*.h5
+
+# Database
+*.db
+*.sqlite
+
+# macOS
+.DS_Store
+
+# Quarto
+book/.quarto/
+book/_build/
+
+# Word temp files
+~$*.docx
+*.docx

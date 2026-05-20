@@ -8,6 +8,7 @@ book:
   date: "2026"
   chapters:
     - index.ipynb
+    - chapters/01_data_exploration.ipynb
 
 format:
   html:
